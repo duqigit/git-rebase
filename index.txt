@@ -7,3 +7,6 @@ let feature1
 let feature2
 let feature3
 let feature300
+let feature4
+let feature6
+let feature7
